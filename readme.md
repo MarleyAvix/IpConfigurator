@@ -1,5 +1,3 @@
-Voici une proposition de mise en page structurée et visuelle pour votre fichier `README.md`. J'ai optimisé l'organisation avec des icônes et des blocs de code clairs pour rendre le projet plus professionnel sur GitHub.
-
 ---
 
 # 🛠️ IpConfigurator
@@ -76,4 +74,3 @@ Invoke-PS2EXE .\IpConfigurator.ps1 .\IpConfigurator.exe -title "IpConfigurator" 
 ## 👤 Auteur
 
 **Marley Avix**  
-*Développé dans le cadre du projet PowerShell Lab.*
